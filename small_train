@@ -1,0 +1,100 @@
+
+B-JJ-NP	suMxara
+I-NN-NP	wAloM
+I-PSP-NP	vAlA
+B-NNP-NP	BopAla
+
+B-NNPC-NP	wAja
+I-SYM-NP	-
+I-NNPC-NP	ula
+I-SYM-NP	-
+I-NNP-NP	masjixa
+
+B-DEM-NP	yaha
+I-NNP-NP	eSiyA
+I-PSP-NP	kI
+B-INTF-NP	sabase
+I-JJ-NP	badZI
+I-NN-NP	masjixoM
+I-PSP-NP	meM
+I-PSP-NP	se
+B-QC-NP	eka
+B-VM-VGF	hE
+B-SYM-BLK	.
+
+B-PRP-NP	ise
+B-NNC-NP	navAba
+I-NNP-NP	SAhajehana
+I-PSP-NP	ne
+B-VM-VGF	banavAyA
+I-VAUX-VGF	WA
+B-SYM-BLK	.
+
+B-PRP-NP	isake
+B-QC-NP	cAroM
+I-NST-NP	ora
+B-NN-NP	xIvAra
+B-VM-VGF	hE
+B-CC-CCP	Ora
+B-NST-NP	bIca
+I-PSP-NP	meM
+B-QC-NP	eka
+I-NN-NP	wAlAba
+B-VM-VGF	hE
+B-SYM-BLK	.
+
+B-PRP-NP	isakA
+B-NNC-NP	praveSa
+I-NN-NP	xvAra
+B-QC-JJP	xo
+I-JJ-JJP	maMjilA
+B-VM-VGF	hE
+B-SYM-BLK	.
+
+B-PRP-NP	jisameM
+B-QC-NP	cAra
+I-NN-NP	meharAbeM
+B-VM-VGF	hEM
+B-CC-CCP	Ora
+B-JJ-NP	muKya
+I-NNC-NP	prArWanA
+I-NN-NP	hOYla
+I-PSP-NP	meM
+B-VM-VGNN	jAne
+I-PSP-VGNN	ke
+I-PSP-VGNN	lie
+B-QC-NP	9
+I-NNC-NP	praveSa
+I-NN-NP	xvAra
+B-VM-VGF	hEM
+B-SYM-BLK	.
+
+B-JJ-NP	pUrI
+I-NN-NP	imArawa
+B-INTF-JJP	behaxa
+I-JJ-JJP	KUbasUrawa
+B-VM-VGF	hE
+B-SYM-BLK	.
+
+B-PRP-NP	yahAz
+B-VM-VGNN	lagane
+I-PSP-VGNN	vAlA
+B-QC-NP	wIna
+I-NN-NP	xina
+I-PSP-NP	kA
+B-NN-NP	ijwimA
+B-JJ-NP	pUre
+I-NN-NP	xeSa
+I-PSP-NP	ke
+B-NN-NP	logoM
+I-PSP-NP	ko
+B-JJ-JJP	AmaMwriwa
+B-VM-VGF	karawA
+I-VAUX-VGF	hE
+B-SYM-BLK	.
+
+B-NNPC-NP	gohara
+I-NNP-NP	mahala
+
+B-NNPC-NP	SOkawa
+I-NNP-NP	mahala
